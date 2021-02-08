@@ -1,1 +1,1 @@
-"This is fileA - version 1 - github" 
+"This is fileA - version 2 - github" 
